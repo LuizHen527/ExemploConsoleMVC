@@ -1,0 +1,15 @@
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\AprendendoMVC.csproj.AssemblyReference.cache
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\AprendendoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\AprendendoMVC.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\AprendendoMVC.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\AprendendoMVC.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\bin\Debug\net7.0\AprendendoMVC.exe
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\bin\Debug\net7.0\AprendendoMVC.deps.json
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\bin\Debug\net7.0\AprendendoMVC.runtimeconfig.json
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\bin\Debug\net7.0\AprendendoMVC.dll
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\bin\Debug\net7.0\AprendendoMVC.pdb
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\AprendendoMVC.dll
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\refint\AprendendoMVC.dll
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\AprendendoMVC.pdb
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\AprendendoMVC.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\back-end\AprendendoMVC\obj\Debug\net7.0\ref\AprendendoMVC.dll
