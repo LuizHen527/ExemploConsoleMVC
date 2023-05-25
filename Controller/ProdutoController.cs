@@ -23,5 +23,16 @@ namespace AprendendoMVC.Controller
             //Chamada do metodo de exibicao(VIEW) recebendo como argumento a lista
             produtoView.Listar(produtos);
         }
+
+        //Metodo controlador para acessar o cdastro de produto
+
+        public void CadastrarProduto()
+        {
+            //Chamada para a view que recebe cada objeto a ser incerido no csv
+            Produto novoProduto = produtoView.Cadastrar();
+
+            //chamada para a model para incerir esse objeto no csv
+            produto.Inserir(novoProduto);
+        }
     }
 }

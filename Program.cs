@@ -6,4 +6,6 @@ Produto prog = new Produto();
 
 ProdutoController controller = new ProdutoController();
 
+controller.CadastrarProduto();
+
 controller.ListarProdutos();
